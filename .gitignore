@@ -1,0 +1,6 @@
+*.tar.gz
+*.zip
+*/results_*
+.idea
+*.txt
+*.md
